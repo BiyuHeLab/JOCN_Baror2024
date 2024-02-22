@@ -16,4 +16,10 @@ Content
 	    To generate Matlab figures, run figures_matlab 
 	    The folder contains analysis outputs required to plot Matlab figures. 
 	    Outputs are named by figure number.
+     
+Analysis/
 
+	Analysis/Behavioral/
+	Analysis/Eye Tracking/
+	Analysis/EEG/
+ 	Analysis/helpfulMats/

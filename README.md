@@ -8,7 +8,7 @@ Content
   Figures were generated using R or Matlab codes.
   
 	  Figures/R/
-      To generate R figures, run Figures_script_R
+            To generate R figures, run Figures_script_R
 	    The folder contains analysis outputs required to plot R figures. 
 	    Outputs are named by figure number.
 
@@ -19,7 +19,7 @@ Content
      
 Analysis/
 
-	Analysis/Behavioral/
-	Analysis/Eye Tracking/
-	Analysis/EEG/
- 	Analysis/helpfulMats/
+Analysis/Behavioral/
+Analysis/EEG/
+Analysis/Eye Tracking/
+Analysis/helpfulMats/

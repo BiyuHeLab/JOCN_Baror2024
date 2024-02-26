@@ -15,7 +15,7 @@ Figures/R/
 
 Figures/Matlab/
 	    
-     	    To generate Matlab figures, run figures_matlab 
+	To generate Matlab figures, run figures_matlab 
 	    The folder contains analysis outputs required to plot Matlab figures. 
 	    Outputs are named by figure number.
      

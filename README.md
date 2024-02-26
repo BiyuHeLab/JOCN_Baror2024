@@ -3,16 +3,16 @@ This repository includes codes and scripts for analyses &amp; figure reproductio
 
 Content
 
-  Figures/
+Figures/
   
-  Figures were generated using R or Matlab codes.
+Figures were generated using R or Matlab codes.
   
-	  Figures/R/
+Figures/R/
             To generate R figures, run Figures_script_R
 	    The folder contains analysis outputs required to plot R figures. 
 	    Outputs are named by figure number.
 
-	  Figures/Matlab/
+Figures/Matlab/
 	    To generate Matlab figures, run figures_matlab 
 	    The folder contains analysis outputs required to plot Matlab figures. 
 	    Outputs are named by figure number.
@@ -20,6 +20,9 @@ Content
 Analysis/
 
 Analysis/Behavioral/
+
 Analysis/EEG/
+
 Analysis/Eye Tracking/
+
 Analysis/helpfulMats/

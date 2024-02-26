@@ -9,21 +9,27 @@ Figures were generated using R or Matlab codes.
   
 Figures/R/
             
-	    To generate R figures, run Figures_script_R
-	    The folder contains analysis outputs required to plot R figures. 
-	    Outputs are named by figure number.
+	Figures_script_R.R To generate R figures. 
+	The folder contains analysis outputs required to plot R figures. 
+	Outputs are named by figure number.
 
 Figures/Matlab/
 	    
-	To generate Matlab figures, run figures_matlab 
-	    The folder contains analysis outputs required to plot Matlab figures. 
-	    Outputs are named by figure number.
+	figures_matlab.m generates the Matlab figures.
+	The folder contains analysis outputs required to plot the Matlab figures. 
+	Outputs are named by figure number.
      
 Analysis/
 
-Behavioral, Eye-tracking, and EEG analysis are each located in a separate sub-folders.  
+Behavioral, Eye-tracking, and EEG analysis are each located in a separate sub-folders.
+
 Analysis/Behavioral/
 
+* SP_regressingOutOrder.m runs to regress serial order from viewing duration
+* SP_correlationsByOrder.m finds correlations between serial order and viewing duration
+* SP_contentBasedViewingDuration.m examines whether image-specific content consistently influences viewing duration
+* SP_luminanceAnalysis.m tests whether luminance accounts for viewing duration
+  
 Analysis/EEG/
 
 Analysis/Eye Tracking/

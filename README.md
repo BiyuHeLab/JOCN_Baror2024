@@ -46,8 +46,21 @@ Behavioral, Eye-tracking, and EEG analysis are each located in a separate sub-fo
 	* acticap128.m and EEG1020.lay are files required for the spatial layout of electrodes
     	
 
-
   - **Analysis/EEG/Analysis scripts**
+
+    This folder includes the analysis codes, each corresponding to the following plots:
+
+	* SP_ERP_OnsetTrial_structure_indivisualshortLong.m
+	* SP_ERP_OffsetTrial_structure_IndivisualshortLong.m
+	* SP_ERP_Onset_corrWviewDur.m
+	* SP_ERP_Offset_corrWviewDur.m
+	* SP_TF_corrWBehavior_thetaAlphaBeta.m
+	* SP_PartialCorrelations_residuals.m
+	* SP_PartialCorrelations_serialOrder.m
+	* SP_STPS_trialParts.m
+	* SP_STPS_trialByTrial.m
+
+    
   - **Analysis/EEG/Helper functions**
 
 **Analysis/Eye Tracking/**

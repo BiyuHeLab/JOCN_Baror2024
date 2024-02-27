@@ -50,15 +50,15 @@ Behavioral, Eye-tracking, and EEG analysis are each located in a separate sub-fo
 
     This folder includes the analysis codes, each corresponding to the following plots:
 
-	* SP_ERP_OnsetTrial_structure_indivisualshortLong.m
-	* SP_ERP_OffsetTrial_structure_IndivisualshortLong.m
-	* SP_ERP_Onset_corrWviewDur.m
-	* SP_ERP_Offset_corrWviewDur.m
-	* SP_TF_corrWBehavior_thetaAlphaBeta.m
-	* SP_PartialCorrelations_residuals.m
-	* SP_PartialCorrelations_serialOrder.m
-	* SP_STPS_trialParts.m
-	* SP_STPS_trialByTrial.m
+	* SP_ERP_OnsetTrial_structure_indivisualshortLong.m compares long and short trials at image onset, results are depicted in Fig. 2A
+	* SP_ERP_OffsetTrial_structure_IndivisualshortLong.m compares long and short trials at image offset, results are depicted in Fig. 2B
+	* SP_ERP_Onset_corrWviewDur.m computes the correlations between spontaneous viewing duration and absolute onset ERPs. Results are depicted in Fig. 3C
+	* SP_ERP_Offset_corrWviewDur.m computes the correlations between spontaneous viewing duration and absolute offset ERPs. Results are depicted in Fig. 3C
+	* SP_TF_corrWBehavior_thetaAlphaBeta.m computes the correlations between serial order and onset Alpha power. Results are depicted in Fig. 4b
+	* SP_PartialCorrelations_residuals.m computes the partial correlations between spontaneous viewing duration, offset absolute ERP and offset pupil-size. Results are 		depicted in Fig. C5
+	* SP_PartialCorrelations_serialOrder.m computes the partial correlations between serial order,onset Alpha power and onset pupil-size. Results are 				depicted in Fig. C5
+	* SP_STPS_trialByTrial.m computes the correlations between spontaneous viewing duration and STPS. Results are depicted in Fig. 6D
+   	* SP_STPS_trialParts.m computes STPS for each participant at the onset, middle and offset trial parts. Results are depicted in Fig. 7
 
     
   - **Analysis/EEG/Helper functions**

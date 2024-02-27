@@ -62,6 +62,14 @@ Behavioral, Eye-tracking, and EEG analysis are each located in a separate sub-fo
 
     
   - **Analysis/EEG/Helper functions**
+    This folder includes unspecific functions that are used in several analyses. These include
+	* SP_groupingElectrodes.m divides the electrodes into spatial regions.
+	* fdr_bh.m runs FDR correction for multipe comparisons
+	* stdshade.m is used for plotting a graph with its SEM/STD data in shaded area.
+	* find_temporal_clusters.m is used for cluster-based permutation test of significance
+	* cluster_test_temporal.m is used for cluster-based permutation test of significance
+	* onsetERP_cluster_test_temp.m is a significance test run to find the earliest timepoint absolute ERP correlates with spontaneous viewing duration
+	* stps_cluster_test_temp.m is a significance test run to find the earliest timepoint absolute ERP correlates with STPS
 
 **Analysis/Eye Tracking/**
 

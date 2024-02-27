@@ -1,6 +1,6 @@
 # JOCN_Baror2024
 This repository includes codes and scripts for analyses &amp; figure reproduction for the paper titled: Neural Mechanisms Determining the Duration of Task-free, Self-paced Visual Perception.
-Questions are welcome at: Baror.shira@Gmail.com
+For questions, reach out to the first author at Baror.shira@Gmail.com
 
 ## Content
 
@@ -34,6 +34,17 @@ Behavioral, Eye-tracking, and EEG analysis are each located in a separate sub-fo
 - **Analysis/EEG/**
   
   - **Analysis/EEG/Preprocessing scripts**
+    	This folder includes the script sub-functions and files used for preprocessing. It includes:
+    	* SP_Preprocessing.m the main preprocessing code
+    	* SP_trialfun_definetrials_Blocks.m the function used to segment the timeseries into blocks
+    	* SP_trialfun_definetrials_Trials.m the function used to segment the timeseries into trials
+    	* SP_plotElectrodePowerSpectrums.m is used for plotting individual electrode's power spectrum to identify faulty electrodes
+    	* SP_varExplained.m is run to find the number of components to be individually inspected, those explaining 90% of the data 
+    	* SP_CreateICA_Figures.m and SP_CreateICA_Presentation.m are used for plotting ICA components for visual inspection and data keeping
+    	* acticap128.m and EEG1020.lay are files required for the spatial layout of electrodes
+    	
+
+
   - **Analysis/EEG/Analysis scripts**
   - **Analysis/EEG/Helper functions**
 

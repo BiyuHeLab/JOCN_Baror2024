@@ -13,7 +13,7 @@ Figures were generated using R or Matlab codes.
 	The folder contains analysis outputs required to plot R figures. 
 	Outputs are named by figure number.
 
-Figures/Matlab/
+- **Figures/Matlab/**
 	    
 	figures_matlab.m generates the Matlab figures.
 	The folder contains analysis outputs required to plot the Matlab figures. 

@@ -26,10 +26,10 @@ Behavioral, Eye-tracking, and EEG analysis are each located in a separate sub-fo
 
 **Analysis/Behavioral/**
 
-	* SP_regressingOutOrder.m runs to regress serial order from viewing duration
-	* SP_correlationsByOrder.m finds correlations between serial order and viewing duration
-	* SP_contentBasedViewingDuration.m examines whether image-specific content consistently influences viewing duration
-	* SP_luminanceAnalysis.m tests whether luminance accounts for viewing duration
+* SP_regressingOutOrder.m runs to regress serial order from viewing duration
+* SP_correlationsByOrder.m finds correlations between serial order and viewing duration
+* SP_contentBasedViewingDuration.m examines whether image-specific content consistently influences viewing duration
+* SP_luminanceAnalysis.m tests whether luminance accounts for viewing duration
   
 **Analysis/EEG/**
   

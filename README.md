@@ -31,6 +31,10 @@ Behavioral, Eye-tracking, and EEG analysis are each located in a separate sub-fo
 * SP_luminanceAnalysis.m tests whether luminance accounts for viewing duration
   
 - **Analysis/EEG/**
+  
+  - **Analysis/EEG/Preprocessing scripts**
+  - **Analysis/EEG/Analysis scripts**
+  - **Analysis/EEG/Helper functions**
 
 - **Analysis/Eye Tracking/**
 

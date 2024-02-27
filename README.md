@@ -24,14 +24,14 @@ Figures were generated using R or Matlab codes.
 
 Behavioral, Eye-tracking, and EEG analysis are each located in a separate sub-folders.
 
-- **Analysis/Behavioral/**
+**Analysis/Behavioral/**
 
 * SP_regressingOutOrder.m runs to regress serial order from viewing duration
 * SP_correlationsByOrder.m finds correlations between serial order and viewing duration
 * SP_contentBasedViewingDuration.m examines whether image-specific content consistently influences viewing duration
 * SP_luminanceAnalysis.m tests whether luminance accounts for viewing duration
   
-- **Analysis/EEG/**
+**Analysis/EEG/**
   
   - **Analysis/EEG/Preprocessing scripts**
     	This folder includes the script sub-functions and files used for preprocessing. It includes:
@@ -48,7 +48,7 @@ Behavioral, Eye-tracking, and EEG analysis are each located in a separate sub-fo
   - **Analysis/EEG/Analysis scripts**
   - **Analysis/EEG/Helper functions**
 
-- **Analysis/Eye Tracking/**
+**Analysis/Eye Tracking/**
 
   - **Analysis/Eye Tracking/Scripts**
 
@@ -68,7 +68,7 @@ Behavioral, Eye-tracking, and EEG analysis are each located in a separate sub-fo
 	* SP_ET_trialIndex.m extracts the timing of the beginning and end of each trial, in the eye-tracking data
 	* SP_EY_onsetMeanConditions.m computes onset pupil size as a function of trial condition
 
-- **Analysis/helpfulMats/**
+**Analysis/helpfulMats/**
 
 	The helpfulMats subfolder includes .mat files that are used in many of the analyses. These .mat files include:
  		* 

@@ -7,7 +7,7 @@ This repository includes codes and scripts for analyses &amp; figure reproductio
   
 Figures were generated using R or Matlab codes.
   
-**Figures/R/**
+- **Figures/R/**
             
 	Figures_script_R.R To generate R figures. 
 	The folder contains analysis outputs required to plot R figures. 

@@ -34,7 +34,7 @@ Analysis/EEG/
 
 Analysis/Eye Tracking/
 
-Analysis/Eye Tracking/Scripts
+&nbsp Analysis/Eye Tracking/Scripts
 
 Scripts used for the eye tracking analysis:
 

@@ -1,9 +1,9 @@
 # JOCN_Baror2024
 This repository includes codes and scripts for analyses &amp; figure reproduction for the paper titled: Neural Mechanisms Determining the Duration of Task-free, Self-paced Visual Perception.
 
-Content
+## Content
 
-Figures/
+### Figures/
   
 Figures were generated using R or Matlab codes.
   
@@ -19,7 +19,7 @@ Figures/Matlab/
 	The folder contains analysis outputs required to plot the Matlab figures. 
 	Outputs are named by figure number.
      
-Analysis/
+### Analysis/
 
 Behavioral, Eye-tracking, and EEG analysis are each located in a separate sub-folders.
 
@@ -34,7 +34,7 @@ Analysis/EEG/
 
 Analysis/Eye Tracking/
 
-&nbsp Analysis/Eye Tracking/Scripts
+Analysis/Eye Tracking/Scripts
 
 Scripts used for the eye tracking analysis:
 

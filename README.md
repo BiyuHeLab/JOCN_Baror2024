@@ -35,6 +35,7 @@ Behavioral, Eye-tracking, and EEG analysis are each located in a separate sub-fo
   
   - **Analysis/EEG/Preprocessing scripts**
     	This folder includes the script sub-functions and files used for preprocessing. It includes:
+    
     	* SP_Preprocessing.m the main preprocessing code
     	* SP_trialfun_definetrials_Blocks.m the function used to segment the timeseries into blocks
     	* SP_trialfun_definetrials_Trials.m the function used to segment the timeseries into trials
@@ -61,7 +62,7 @@ Behavioral, Eye-tracking, and EEG analysis are each located in a separate sub-fo
 
 	Functions in this folder are used in the SP_ET_corrWbehavior.m script, to extract eye-tracking data at specified timepoints and image conditions as follows:
 
-	* SP_conditionIndex.m separates trials by their face/scene, expected/unexpected, repeated/change conditions.
+	* SP_conditionIndex.m separates trials by their face/scene, expected/unexpected, repeated/change conditions
 	* SP_ET_pupilSizeOnset.m extracts pupil size metrics at onset
 	* SP_ET_pupilSizeOffset.m extracts pupil size metrics at offset
 	* SP_ET_pupilSizePre.m extracts pupil size metrics at the prestimulus time window

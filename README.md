@@ -23,7 +23,7 @@ Figures were generated using R or Matlab codes.
 
 Behavioral, Eye-tracking, and EEG analysis are each located in a separate sub-folders.
 
-Analysis/Behavioral/
+- **Analysis/Behavioral/**
 
 * SP_regressingOutOrder.m runs to regress serial order from viewing duration
 * SP_correlationsByOrder.m finds correlations between serial order and viewing duration
@@ -32,14 +32,14 @@ Analysis/Behavioral/
   
 Analysis/EEG/
 
-Analysis/Eye Tracking/
+- **Analysis/Eye Tracking/**
 
-Analysis/Eye Tracking/Scripts
+  - **Analysis/Eye Tracking/Scripts**
 
-Scripts used for the eye tracking analysis:
+	Scripts used for the eye tracking analysis:
 
-* SP_EY_ParsingASC.m parses the eye tracking recording to events
-* SP_ET_corrWbehavior.m computes the correlations between eye tracking data and viewing duration or serial order.
+	* SP_EY_ParsingASC.m parses the eye tracking recording to events
+	* SP_ET_corrWbehavior.m computes the correlations between eye tracking data and viewing duration or serial order.
 
 Analysis/Eye Tracking/Functions
 

@@ -57,7 +57,7 @@ Behavioral, Eye-tracking, and EEG analysis are each located in a separate sub-fo
 	Scripts used for the eye tracking analysis:
 
 	* SP_EY_ParsingASC.m parses the eye tracking recording to events
-	* SP_ET_corrWbehavior.m computes the correlations between eye tracking data and viewing duration or serial order.
+	* SP_ET_corrWbehavior.m computes the correlations between eye tracking data and viewing duration or serial order
 
   - **Analysis/Eye Tracking/Functions**
 

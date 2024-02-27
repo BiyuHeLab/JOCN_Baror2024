@@ -93,5 +93,11 @@ Behavioral, Eye-tracking, and EEG analysis are each located in a separate sub-fo
 
 **Analysis/helpfulMats/**
 
-	The helpfulMats subfolder includes .mat files that are used in many of the analyses. These .mat files include:
- 		* 
+	The helpfulMats subfolder includes .mat files that are loaded in many of the analyses. These .mat files include:
+ 
+ 	* timeDurVecEEG_random.mat is the viewing duration mat of participants in the random dataset. Columns represent participants, Rows represent trials in their order
+ 	* timeDurVecEEG_fixed.mat is the viewing duration mat of participants in the fixed dataset. Columns represent participants, Rows represent trials in their order
+ 	* allSortedResiduals_eeg_rand.mat is the residuals mat of participants in the random dataset. Columns represent participants, Rows represent trials in their order
+ 	* allSortedResiduals_eeg_fixed.mat is the residuals mat of participants in the fixed dataset. Columns represent participants, Rows represent trials in their order
+ 	* imgLumSorted.mat is the luminance mat for each image as computed using the SHINE toolbox
+ 

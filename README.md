@@ -35,7 +35,7 @@ Behavioral, Eye-tracking, and EEG analysis are each located in a separate sub-fo
   
   - **Analysis/EEG/Preprocessing scripts**
     
-    	This folder includes the script sub-functions and files used for preprocessing. It includes:
+    This folder includes the script sub-functions and files used for preprocessing. It includes:
     
     	* SP_Preprocessing.m the main preprocessing code
     	* SP_trialfun_definetrials_Blocks.m the function used to segment the timeseries into blocks

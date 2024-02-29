@@ -1,5 +1,5 @@
 # JOCN_Baror2024
-This repository includes codes and scripts for analyses &amp; figure reproduction for the paper titled: Neural Mechanisms Determining the Duration of Task-free, Self-paced Visual Perception.
+This repository includes codes and scripts for analyses &amp; figures for the paper titled: Neural Mechanisms Determining the Duration of Task-free, Self-paced Visual Perception.
 For questions, reach out to the first author at Baror.shira@Gmail.com
 
 ## Content
